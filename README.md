@@ -16,24 +16,27 @@ Proyek ini juga dilengkapi dengan fitur pendukung seperti kalkulator BMI, pelaca
 
 ## Fitur Utama
 
--  **Latihan Fisik**:
+1. **Latihan Fisik**:
   - Aerobik (`A1.py` - `A8.py`, `aerobics.py`, `lowimpactaero.py`, `wheelchaircardio.py`)
   - Kardio (`cardiosensory.py`, `cardopole.py`, `easycardio.py`, `hiitstrength.py`)
   - Latihan kekuatan (`strengthweight.py`, `resistanceband.py`)
   - Latihan duduk (`seatedmarch.py`, `upperbody.py`, `wheelchairfitness.py`)
   - Mobilitas & fisioterapi (`mobility.py`, `physioteraphy.py`, `phytraining.py`)
+    
 
--  **Latihan Mental & Sensorik**:
+2. **Latihan Mental & Sensorik**:
   - Sensorik (`sensoric.py`, `sensorictraining.py`, `fitsensory.py`)
   - Intelektual & meditasi (`intelectualmental.py`, `intellectual.py`, `meditate.py`, `meditation.py`)
   - Artikel suara & audio terapi (`articlemenu.py`, `article.mp3`, `text_to_speech.mp3`)
+    
 
--  **Pelacakan & Data**:
+3. **Pelacakan & Data**:
   - Kalkulator BMI (`bmi new.py`)
   - Database pengguna (`fitness.db`, `nama_database.db`, `user_data.txt`, `PyWhatKit_DB.txt`)
   - Riwayat latihan (`riwayat.py`, `persondata.py`)
 
-- 🖥 **Antarmuka Aplikasi**:
+
+4. **Antarmuka Aplikasi**:
   - Menu utama (`main.py`, `mainmain.py`, `mainmenu.py`, `startapp.py`)
   - Pendaftaran & login (`signup1.py`, `signup2.py`, `login1.py`, `login2.py`)
   - Pemutaran video latihan (`video1.py` - `video9.py`, `a8vid.py`)
